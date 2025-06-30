@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/Colab Notebooks/object_counter/data_from_SAM2/data/
+train: images/train 
+val: images/val 
+
+names:
+    0: truck
